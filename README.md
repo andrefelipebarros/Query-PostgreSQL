@@ -1,6 +1,6 @@
 <div algin=center>
 <h1>🐘Query PostgreSQL DataBase📘</h1>
-<p> Consult a table in the Data Bank with Python (Banco de Dados). </p>
+<p> Consult a table in the Data Base with Python (Banco de Dados). </p>
 </div>
 <h1>Instructions</h1>
 <ul>
